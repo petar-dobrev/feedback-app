@@ -14,7 +14,7 @@ Simple feedback app developed with React.
 
 ## General Info
 
-Web applicatoin for leaving feedback messages. The main goal of this project was to get familiar with React components, props, state, routes & hooks.
+Web app for leaving feedback messages. The main goal of this project was to get familiar with React components, props, state, routes & hooks.
 
 ## Technologies
 
@@ -47,7 +47,8 @@ Project is: _in progress_
 
 ## Room for Improvement
 
-Replace the json-server mock API with Firebase API and deploy the app on Netify.
+- Replace the json-server mock API with Firebase API 
+- Deploy the app on Netify
 
 ## Acknowledgements
 
