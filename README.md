@@ -1,4 +1,4 @@
-# Feedback App (WIP)
+# Feedback App
 
 Simple feedback app developed with React.
 
