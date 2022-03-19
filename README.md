@@ -21,7 +21,7 @@ Web app for leaving feedback messages. The main goal of this project was to get 
 Project is created with:
 
 - React
-- React Routes
+- React Router
 - JSON-Server
 
 ## Features
