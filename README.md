@@ -48,7 +48,7 @@ Project is: _in progress_
 ## Room for Improvement
 
 - Replace the json-server mock API with Firebase API 
-- Deploy the app on Netify
+- Deploy the app on Netlify
 
 ## Acknowledgements
 
